@@ -14,9 +14,8 @@ Default Configuration:
 
 Home Page Background
 
-- Prompt: "An enchanted forest at night, under a starlit sky. The scene is dark by mystical glows from luminescent flowers, exotic mushrooms, and arcane symbols on ancient trees. The atmosphere is serene, with a magical aura conveyed through ethereal particles and soft glimmers of light floating in the air. The color scheme should focus on dark tones with highlights in mild yellow and gold, creating a magical and inviting scene that blends the beauty of an astral night with the mystery of a magical forest."
-
-- Seed: 656140970
+- Prompt: "Imagine a secluded forest bathed in the soft glow of a starry night. The darkness is pierced by ethereal luminescent flowers and bioluminescent mushrooms, casting an otherworldly light. Ancient trees stand tall, their bark etched with arcane symbols that emit a faint, magical glow. Wisps of glowing mist and delicate particles float in the air, creating an aura of mystery and enchantment. The color palette features deep, shadowy blues and purples, accented with vibrant turquoise and emerald greens. Highlights of soft silver and ethereal white glimmers add to the mystical and inviting atmosphere. The forest feels alive with ancient magic and hidden secrets, inviting you to explore its enigmatic depths."
+- Seed: 478368835
 
 
 --------------------------------------------------
